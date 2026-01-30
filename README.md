@@ -70,7 +70,7 @@ Bash
 pip install aiogram requests beautifulsoup4 python-dotenv
 Configure the Environment: Create a .env file and add your credentials:
 
-Фрагмент кода
+Example:
 TOKEN=123456789:ABCDEF...
 URL=https://texnomart.uz/
 HOST=https://texnomart.uz
